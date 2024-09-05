@@ -8,6 +8,6 @@ Highlights:
 
 🤝 I’m always excited to collaborate on any open source project where there is a need in the community! I'm comfortable across the full stack and i'm always excited to learn a new technology.
 
-🧐 How to reach me: [Linkedin](#https://www.linkedin.com/in/brandonhernandezv/)
+🧐 How to reach me: [Linkedin](https://www.linkedin.com/in/brandonhernandezv/)
 
 🍵 Outside of coding I love to Try New Cafes with my girlfriend and spending time with family, and i think doing boldering with my brother is really cool!
