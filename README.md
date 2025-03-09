@@ -1,4 +1,4 @@
-## Hi there 👋
+## Good Day!🙌🏼
 
 Welcome to my GitHub! My name is Brandon, I'm a full stack software engineer with experience across a variety of technologies and languages (JavaScript, TypeScript, Jest, Kubernetes), and have built several web applications / developer tools with React / Node.js.
 
